@@ -1,4 +1,4 @@
-from p1 import Solution
+from main import Solution
 
 s = Solution()
 
